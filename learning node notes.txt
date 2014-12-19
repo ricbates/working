@@ -1,0 +1,6 @@
+learning node notes
+
+C:\Users\Rick\workspace\learningNode>npm install -g learnyounode
+
+C:\Users\Rick\workspace\learningNode>learnyounode
+

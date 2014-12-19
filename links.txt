@@ -1,0 +1,9 @@
+http://stackoverflow.com/questions/3823403/node-js-web-application-examples-tutorials
+
+http://www.yuiblog.com/blog/2010/08/30/yui-theater-douglas-crockford-crockford-on-javascript-scene-6-loopage-52-min/
+
+http://nodeschool.io/
+
+http://nodejs.org/api/index.html
+
+https://github.com/maxogden/art-of-node
